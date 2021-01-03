@@ -1,0 +1,1 @@
+Publish-Module -Name .\src\pwsh-start-process.psd1 -Repository agamemnon
