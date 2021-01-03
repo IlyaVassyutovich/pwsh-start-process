@@ -7,7 +7,7 @@
 	ModuleVersion        = "0.0.1"
 
 	Author               = "Ilya Vassyutovich"
-	Copyright            = "(c) 2021 Ilya Vassyutovich."
+	Copyright            = "(c) 2021 Ilya Vassyutovich"
 	Description          = "TBD"
 
 	FunctionsToExport    = @("Write-Greeting")
