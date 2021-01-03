@@ -10,7 +10,7 @@
 	Copyright            = "(c) 2021 Ilya Vassyutovich"
 	Description          = "TBD"
 
-	FunctionsToExport    = @("Write-Greeting")
+	FunctionsToExport    = @("Start-ProcessWithCapture")
 	
 	PrivateData = @{
 		PSData = @{

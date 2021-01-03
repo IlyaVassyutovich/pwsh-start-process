@@ -1,1 +1,1 @@
-. (Join-Path $PSScriptRoot "Write-Greeting.ps1")
+. (Join-Path $PSScriptRoot "Start-ProcessWithCapture.ps1")
