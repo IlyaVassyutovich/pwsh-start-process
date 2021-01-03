@@ -1,0 +1,1 @@
+. (Join-Path $PSScriptRoot "Write-Greeting.ps1")
